@@ -1,3 +1,11 @@
+## 大佬面径
+
+* [出一套 iOS 高级面试题](https://mp.weixin.qq.com/s/8aSJBDlT9ISyBJtGfzZghg)
+* [金三银四 -- 面试攻略](https://mp.weixin.qq.com/s/i5lOSkeOP5xT2X0wEsqaWQ)
+* [拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/RzJfssIqMcJ7E6i2nqgnIg)
+* [化身面试官出 30+ Vue 面试题，超级干货（附答案）](https://mp.weixin.qq.com/s/dGoWD2kmDq44p5zkGQ2JRg)
+* [数据库面试题(开发者必看)](https://mp.weixin.qq.com/s/1nG7qC4jglh_8AnT7bUSNw)
+
 ## 面试题
 整理 14 类 iOS 常问面试题，包含：
 
