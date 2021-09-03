@@ -1,5 +1,28 @@
 ## 面试题
-整理 14 类 iOS 常问面试题，包含：多线程、内存管理、设计模式、数据安全及加密、数据结果与算法、网络、性能优化、Block、RunLoop、Runtime、UI 相关、150道精选iOS面试题、阿里iOS面试题、BAT面试宝典
+整理 14 类 iOS 常问面试题，包含：
+
+* [多线程面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/多线程面试题.pdf)
+* [内存管理面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/内存管理面试题.pdf)
+* [设计模式面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/设计模式面试题.pdf)
+* [数据安全及加密](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/数据安全及加密.pdf)
+* [数据结果与算法](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/数据结构与算法.pdf)
+* [网络相关面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/网络相关面试题.pdf)
+* [性能优化面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/性能优化面试题.pdf)
+* [Block 面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/Block面试题.pdf)
+* [RunLoop 相关面试整理](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/RunLoop%20相关面试整理.pdf)
+* [Runtime 面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/Runtime面试题.pdf)
+* [UI 相关面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/UI相关面试题.pdf)
+* [150 道精选 iOS 面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/150道精选iOS面试题.pdf)
+* [阿里iOS面试题](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/阿里iOS面试题.pdf)
+* [BAT 面试宝典](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/pdf/BAT面试宝典.pdf)
+
+## 校招面径
+
+* [携程](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/Interviews/携程面试题.md)
+* [阿里](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/Interviews/阿里巴巴面试题.md)
+* [京东](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/Interviews/京东面试题.md)
+* [腾讯](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/Interviews/腾讯面试题.md)
+* [小红书](https://github.com/fanbaoying/FBYInterview-iOS/blob/main/Interviews/小红书面试题.md)
 
 ## 进阶电子书籍
 
