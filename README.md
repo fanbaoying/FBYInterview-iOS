@@ -6,7 +6,8 @@
 添加我的微信号：**FBY-fan** 回复「**领书籍**」，领取 iOS 高级进阶电子版书籍，包含：
 iOS进阶、面试宝典、响应式编程、跨平台、ARM汇编、LLVM、设计模式、编程规范、iOS网络编程、iOS数据库、iOS编程、Mac内核&iOS、安全攻防等 45 本电子档书籍。
 
-![WechatIMG1318](https://user-images.githubusercontent.com/24238160/116524999-a6509c80-a90a-11eb-8f94-9ba9db3ab0cf.jpeg)
+
+
 
 > 希望可以帮助大家，可加微信：FBY-fan 拉你进群交流
 
