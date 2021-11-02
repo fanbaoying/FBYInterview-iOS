@@ -1,5 +1,6 @@
 ## 大佬面径
 
+* [【百度】一面总结（含答案）](https://mp.weixin.qq.com/s/ZprPxK8NbMqpP9flmWRagg)
 * [出一套 iOS 高级面试题](https://mp.weixin.qq.com/s/8aSJBDlT9ISyBJtGfzZghg)
 * [金三银四 -- 面试攻略](https://mp.weixin.qq.com/s/i5lOSkeOP5xT2X0wEsqaWQ)
 * [拿了微软、蚂蚁、头条 offer，这就是我面了42场得到的方法论！](https://mp.weixin.qq.com/s/RzJfssIqMcJ7E6i2nqgnIg)
@@ -34,10 +35,8 @@
 
 ## 进阶电子书籍
 
-添加我的微信号：**FBY-fan** 回复「**领书籍**」，领取 iOS 高级进阶电子版书籍，包含：
+添加我的微信号：**fzhanfei** 回复「**领书籍**」，领取 iOS 高级进阶电子版书籍，包含：
 iOS进阶、面试宝典、响应式编程、跨平台、ARM汇编、LLVM、设计模式、编程规范、iOS网络编程、iOS数据库、iOS编程、Mac内核&iOS、安全攻防等 45 本电子档书籍。
-
-
 
 
 > 希望可以帮助大家，可加微信：FBY-fan 拉你进群交流
@@ -47,6 +46,6 @@ iOS进阶、面试宝典、响应式编程、跨平台、ARM汇编、LLVM、设�
 > 如需转载请联系我，经过授权方可转载，谢谢
 
 ***
-欢迎关注公众号「网罗开发」
+欢迎关注公众号「Swift社区」
 
-<img width="500" alt="网罗开发" src="https://user-images.githubusercontent.com/24238160/131977235-0938b244-820d-472d-a708-5b4a3ea39f6e.png">
+<img width="500" alt="Swift社区" src="https://user-images.githubusercontent.com/24238160/132703149-34121c6c-fd18-491c-a697-58a0fabf3060.png">
