@@ -1,3 +1,5 @@
+[![RSS_icon](https://img.shields.io/badge/RSS-Atom-orange)](https://github.com/fanbaoying/FBYInterview-iOS/releases.atom)
+
 ## 大佬面径
 
 * [京东七鲜一面总结](https://mp.weixin.qq.com/s/jAi3rpJ11F7GGXMTx2AFXA)
